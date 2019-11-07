@@ -106,6 +106,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\BusinessLogicalLayer.cs" />
+    <Compile Include="Model\DataAccessLayer.cs" />
+    <Compile Include="Model\Registro.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
